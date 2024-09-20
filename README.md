@@ -1,4 +1,28 @@
-# ROBO_SPEAKER-PYTHON PROJECT.
+Robo Speaker
 
-A robo speaker is a type of voice-based interface designed to mimic human speech and communicate with users in a natural way.Robo speakers can be used in a wide range of applications, including virtual assistants, chatbots, customer service support, e-learning platforms, and accessibility tools for visually impaired individuals. Some Robo speakers can also be programmed to recognize and respond to user input, allowing for two-way communication.
-RoboSpeaker project using Python is a fun and interesting way to explore the capabilities of text-to-speech libraries in Python and create a program that can interact with the user using a computerized voice.
+This is my second project in Python, a text-to-speech program that I have named "Roobo Speaker". The program allows users to input any text they want to hear, and Robo Speaker will read it out loud to them. The user can add new text as many times as they want, and they also have the option to exit the program when they are done.
+
+Usage:
+
+To use Robo Speaker, simply run the rooboSpeaker.py file in your terminal. Then, enter any text you want to hear, and the program will speak it out loud to you.
+
+Installation:
+
+To run Robo Speaker, you need to have Python installed on your machine. Clone the repository and run the robo_speaker.py file in your terminal.
+
+
+Contributing:
+
+If you want to contribute to this project, feel free to submit a pull request. Bug reports and feature requests are also welcome.
+
+Credits:
+
+I would like to thank the Python community for their support and the various libraries that helped make this project possible.
+
+License:
+
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+Future Improvements:
+
+In the future, I plan to enhance Robo Speaker by adding more functionality, such as the ability to choose different voices, adjust the speaking speed, and save audio files. I am excited to continue working on this project and exploring the possibilities of text-to-speech technology..
